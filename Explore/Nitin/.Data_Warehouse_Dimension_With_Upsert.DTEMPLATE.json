@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "6STPaum5K6FgBymL3Fou8B",
+    "name" : "Data_Warehouse_Dimension_With_Upsert",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01C1HR1700000000000X"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Cloud  mapping to load data warehouse dimension with update and insert functionality are also called as Slowly Changing Dimension Type 1.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}

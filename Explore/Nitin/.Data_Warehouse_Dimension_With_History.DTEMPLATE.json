@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "j5Hfrs9VIoRcuORqcxljuM",
+    "name" : "Data_Warehouse_Dimension_With_History",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01C1HR1700000000000W"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Cloud  mapping to load data warehouse dimension with historical records are also called as Slowly Changing Dimension Type 2.",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
